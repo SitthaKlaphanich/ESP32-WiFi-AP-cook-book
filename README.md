@@ -23,3 +23,7 @@
 ![image](https://github.com/user-attachments/assets/0d8d4e96-abff-4e98-a384-886678efde22)
 
 ![image](https://github.com/user-attachments/assets/97c5c23a-b4bb-440b-b02a-d0132c8999e3)
+
+## 5.สรุป
+
+เราสามารถใช้ ESP32 เพื่อให้เป็น WiFi-AP (Access Point)  ทำหน้าที่เป็นจุดเชื่อมต่อให้กับอุปกรณ์อื่นๆ สามารถเชื่อมต่อเข้ามาได้ อุปกรณ์จะสร้างเครือข่าย Wi-Fi ที่ผู้ใช้สามารถเชื่อมต่อเพื่อเข้าถึงอินเทอร์เน็ตหรือเครือข่ายภายใน
